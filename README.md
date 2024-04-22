@@ -1,4 +1,4 @@
-# mern-book-search-refactor
+# MERN Book Search Engine (Refactor)
 
   ## Description 
   This week, i refactored a Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. 
@@ -32,10 +32,7 @@
 
 
   ## Deployment
-This application was deployed using Render. Visit deployed app here: https://main--efrensportfolio.netlify.app/
-
-## Screenshot
-![alt text](./public/Images/)
+This application was deployed using Render. Visit deployed app here: https://mern-book-search-refactor.onrender.com
 
 
   ## Questions
